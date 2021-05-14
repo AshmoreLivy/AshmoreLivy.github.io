@@ -56,7 +56,7 @@ gitalk:
   enable: true    # 是否开启Gitalk评论
   clientID: d40c20f8e496cefdd0df                          #生成的clientID
   clientSecret: f0d95b3491ba1ec4a101e14bdd036a1d209c8ecb    #生成的clientSecret
-  repo: https://github.com/AshmoreLivy/AshmoreLivy.github.io.git    #仓库名称
+  repo: AshmoreLivy.github.io  #仓库名称
   owner: AshmoreLivy    # github用户名
   admin: AshmoreLivy
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
