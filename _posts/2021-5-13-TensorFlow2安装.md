@@ -7,11 +7,12 @@ author:     Ashmore
 header-img: img/post-web.jpg
 catalog: true
 tags:
-    - 炼丹 - TensorFlow
+    - TensorFlow
 ---
 {: id="20210516031449-u00i72z" updated="20210516031523"}
 
 # 前言
+
 {: id="20210516031451-dqeirkq" updated="20210516032055"}
 
 本文按照[TensorFlow官网](https://tensorflow.google.cn/install?hl=zh-cn)实现安装。
@@ -21,6 +22,7 @@ tags:
 {: id="20210516032328-cz2helw" updated="20210516032446"}
 
 # 使用 pip 安装 TensorFlow
+
 {: id="20210516032440-0bxq8u8"}
 
 安装后不知道怎么就遇到了pip命令失效的问题，通过以下方式已解决：
@@ -34,9 +36,11 @@ tags:
 {: id="20210516033007-a2lftbp" updated="20210516033046"}
 
 # GPU支持
+
 {: id="20210516033137-qnnm31q" updated="20210516034014"}
 
 ## **软件要求**
+
 {: id="20210516034044-fvnn9lh"}
 
 必须在系统中安装以下 NVIDIA® 软件：
@@ -52,7 +56,7 @@ tags:
   {: id="20210516034044-0d0kdu7" updated="20210516034427"}
 * {: id="20210516034044-zcb6ifx"}（可选）[TensorRT 6.0](https://docs.nvidia.com/deeplearning/sdk/tensorrt-install-guide/index.html)，可缩短用某些模型进行推断的延迟时间并提高吞吐量。
   {: id="20210516034044-0bfqihq"}
-{: id="20210516034044-s6s3qgu"}
+  {: id="20210516034044-s6s3qgu"}
 
 查看CUDA的编译器`nvcc -V`**要大写**：
 {: id="20210516034044-m226ub6" updated="20210516034255"}
@@ -83,6 +87,5 @@ tags:
 
 ![](https://AshmoreLivy.github.io/BlogImage/GPU%E6%88%90%E5%8A%9F.png)
 {: id="20210516035508-vkwnibs" updated="20210516040143"}
-
 
 {: id="20210516031424-nrdicst" type="doc"}
