@@ -1,0 +1,206 @@
+[33mcommit 30387192d19bd621daacf91a46343e2ac48a1424[m[33m ([m[1;36mHEAD -> [m[1;32mtry[m[33m, [m[1;31morigin/try[m[33m)[m
+Author: liwei <1069696543@qq.com>
+Date:   Sun May 16 04:05:47 2021 +0800
+
+    更博
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 99967fab67fffd8680838c554f03c71c7a24ede3[m
+Author: liwei <1069696543@qq.com>
+Date:   Sat May 15 15:14:29 2021 +0800
+
+    About更改
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 045d6c55530ab4da10f4bbcc2e1db933de51479e[m
+Author: liwei <1069696543@qq.com>
+Date:   Sat May 15 05:56:47 2021 +0800
+
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 7e3b40e5b10cd8bc58761cbcb246ce7d0fa0e06d[m
+Author: liwei <1069696543@qq.com>
+Date:   Sat May 15 05:28:27 2021 +0800
+
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit faeaa15b0c09a17d40056c2ebfeb12556224db64[m
+Author: liwei <1069696543@qq.com>
+Date:   Sat May 15 05:12:17 2021 +0800
+
+    试试评论
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 3a2a04bfeb11c05990c398937a8f4130676ed1fb[m
+Author: liwei <1069696543@qq.com>
+Date:   Sat May 15 04:44:13 2021 +0800
+
+    评论是我的？
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 61cf733b2c9bd07c3a7c961b7bc69a73a041c8fc[m
+Author: liwei <1069696543@qq.com>
+Date:   Sat May 15 04:33:56 2021 +0800
+
+    Revert "config修改"
+    
+    This reverts commit 7eaacfbcf9d543ea8d9bb2e2913a2b33403567a5.
+
+[33mcommit 0a13fa3145dac85f4d4d386471fb6a318125f5e7[m
+Author: liwei <1069696543@qq.com>
+Date:   Sat May 15 04:06:34 2021 +0800
+
+    去掉hexo
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 7eaacfbcf9d543ea8d9bb2e2913a2b33403567a5[m
+Author: liwei <1069696543@qq.com>
+Date:   Sat May 15 03:59:15 2021 +0800
+
+    config修改
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit d12c514d24440c7a7fc9da9239a080fe3197d9df[m
+Author: liwei <1069696543@qq.com>
+Date:   Sat May 15 01:42:45 2021 +0800
+
+    图标
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 15772d054357f6f4d55c674b2477569af9773550[m
+Author: liwei <1069696543@qq.com>
+Date:   Fri May 14 22:33:22 2021 +0800
+
+    改一点
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 0adb9882fc765ac489f664ad2be316555e49d7ed[m
+Author: liwei <1069696543@qq.com>
+Date:   Fri May 14 22:30:38 2021 +0800
+
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit c877255fdb10ed8af25dee674961cc05ffcbe32e[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 16:28:19 2021 +0800
+
+    这下图片应该行了吧
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 1e30d2a42e70a84dd6c88ed6b187e8c2e7e918a8[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 16:03:20 2021 +0800
+
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 73ac84f7a788e0c3cff2ffd5471b90604b29a02a[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 16:00:10 2021 +0800
+
+    持续迷
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 0da86063b72d4e1b56aaaf49a7d7f8f1dbb13342[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 15:41:14 2021 +0800
+
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit cd18b99911f47644befb0b23e7becbe8df2a10f3[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 15:38:42 2021 +0800
+
+    迷了
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 874fbde2257eeaa4f3aeff068ae7048c785eb3b7[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 15:22:27 2021 +0800
+
+    图床
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 488f73a616c24b6ea33fc1cd67f836cab4b84185[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 15:03:17 2021 +0800
+
+    图片显示
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit fece7e27e31717441a9a4d78c15a50d57cf34e06[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 14:40:09 2021 +0800
+
+    数学公式
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 2c5e29b3fba999afe33a3964db5565dca28f9491[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 13:40:57 2021 +0800
+
+    mdTest
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit c6b5407abdde2dcf3d9b8f48eb88e3ae28cedd56[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 13:33:06 2021 +0800
+
+    巴拉一下
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 18b5634b61853a9dc0f38b6cb7d95e281f184b5e[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 13:10:58 2021 +0800
+
+    更改主页图像与头像
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 8b0cd6cf96836afb992783e265c431d6f93a208c[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 12:52:33 2021 +0800
+
+    change model
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 40ffa2186e74c404a43570ab6912b1fcd2d447ed[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 12:12:29 2021 +0800
+
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit dadb1dd3cc4141d94f812fa7c87229504d3f4ac1[m
+Author: liwei <1069696543@qq.com>
+Date:   Tue May 4 04:25:05 2021 +0800
+
+    add index.html
+    Signed-off-by: liwei <1069696543@qq.com>
+
+[33mcommit 3309e66665935fee79ec9fc8dc22f7cd40e3930d[m
+Author: AshmoreLivy <43882102+AshmoreLivy@users.noreply.github.com>
+Date:   Tue May 4 04:11:26 2021 +0800
+
+    Delete CNAME
+
+[33mcommit 727f63ff4bef7572d99f1e27ee5a8def001939b5[m
+Author: AshmoreLivy <43882102+AshmoreLivy@users.noreply.github.com>
+Date:   Tue May 4 04:11:11 2021 +0800
+
+    Create CNAME
+
+[33mcommit ad13c9a94bda0dce777546e036739fd307d10ff3[m
+Author: AshmoreLivy <43882102+AshmoreLivy@users.noreply.github.com>
+Date:   Tue May 4 03:59:07 2021 +0800
+
+    Create README.md
+
+[33mcommit 9e80aef1a5d8255d82f8a2e69692cafa94767acb[m
+Author: AshmoreLivy <43882102+AshmoreLivy@users.noreply.github.com>
+Date:   Tue May 4 03:58:56 2021 +0800
+
+    Set theme jekyll-theme-cayman
+
+[33mcommit 22bd3042b03e724c7308bd3c66190564ccb663e2[m
+Author: AshmoreLivy <43882102+AshmoreLivy@users.noreply.github.com>
+Date:   Tue May 4 03:56:12 2021 +0800
+
+    Initial commit
