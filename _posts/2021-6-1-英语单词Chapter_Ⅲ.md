@@ -7,7 +7,7 @@ author:     Ashmore
 header-img: img/post-web.jpg
 catalog: true
 tags:
-    - 英语单词
+    - 英语学习
 ---
 # 情感
 
@@ -276,3 +276,25 @@ tags:
 - vow 起誓
 
 ## 习俗、传统相关
+
+- **prevail** 流行，盛行
+- custom
+- tradition
+- **orthodox** 传统的，正统的，普遍接受的正统观念
+- superstition 迷信
+  - superstitious
+- **taboo** 禁忌，忌讳
+- **deviate** 违背，偏离
+
+## 传说、寓言相关
+
+- legend
+- **tale** 传说，故事
+- **anecdote** 轶事，趣闻
+- mystery
+- fable
+- fairy
+- monster
+- witch
+- ghost
+- knight 骑士
